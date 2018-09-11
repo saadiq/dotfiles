@@ -85,9 +85,4 @@ export EDITOR='vim'
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
-
-export NVM_DIR="$HOME/.nvm"
-. "/usr/local/opt/nvm/nvm.sh"
-
 alias transc="~/dev/sickbeard_mp4_automator/manual.py -i ~/Downloads -a"
