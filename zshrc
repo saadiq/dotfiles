@@ -1,6 +1,9 @@
 # If you come from bash you might have to change your $PATH.
 export PATH=$HOME/bin:/usr/local/opt/python/libexec/bin:/usr/local/bin:$PATH:/usr/local/anaconda3/bin:$HOME/Library/Python/3.7/bin
 
+# Add Visual Studio Code (code)
+export PATH=$PATH:"/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+
 # Path to your oh-my-zsh installation.
 export ZSH=/Users/saadiq/.oh-my-zsh
 
