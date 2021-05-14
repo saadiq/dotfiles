@@ -1,5 +1,5 @@
 # If you come from bash you might have to change your $PATH.
-export PATH=$HOME/bin:/usr/local/opt/python/libexec/bin:/usr/local/bin:$PATH:/usr/local/anaconda3/bin:$HOME/Library/Python/3.9/bin
+export PATH=$HOME/bin:/usr/local/opt/python/libexec/bin:/usr/local/bin:$PATH:/usr/local/anaconda3/bin:$HOME/Library/Python/3.9/bin:/Applications/Chia.app/Contents/Resources/app.asar.unpacked/daemon
 
 # Add Visual Studio Code (code)
 export PATH=$PATH:"/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
@@ -88,7 +88,7 @@ export EDITOR='vim'
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-alias transc="~/dev/sickbeard_mp4_automator/manual.py -i ~/Downloads -a"
+alias transc="~/Documents/dev/sickbeard_mp4_automator/manual.py -i ~/Downloads -a"
 
-export NVM_DIR="$HOME/.nvm"
-. "/usr/local/opt/nvm/nvm.sh"
+#export NVM_DIR="$HOME/.nvm"
+#. "/usr/local/opt/nvm/nvm.sh"
